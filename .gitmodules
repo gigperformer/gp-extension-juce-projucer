@@ -1,0 +1,4 @@
+[submodule "gp-sdk"]
+	path = gp-sdk
+	url = https://github.com/gigperformer/gp-sdk.git
+	branch = main
